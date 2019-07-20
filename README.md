@@ -1,2 +1,0 @@
-# smileyandz.github.io
-css
